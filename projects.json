@@ -1,4 +1,11 @@
-[  
+[
+    {
+    "title": "CybertruckRacing",
+    "folder": "CybertruckRacing",
+    "author": "Paul Wiesinger",
+    "year": "2019_WS",
+    "status": 0
+   },
     {
 	 "title": "TowerDefense",
 	 "folder": "BetterTowerDefense",
@@ -29,8 +36,21 @@
 	 "year": "2019_WS",
 	 "status": 0
     },
+    {
+        "title": "SpaceJumper",
+        "folder": "2PlayerTetris-WebGLBuild",
+        "author": "David Gangl",
+        "year": "2019_WS",
+        "status": 1
+	},
 	{
-	 "title": "Tetris2Player",
+	 "title": "Crusade",
+	 "folder": "Crusade",
+	 "author": "Fabian",
+	 "year": "2019_WS",
+	 "status": 0
+    },
+	{"title": "Tetris2Player",
 	 "folder": "2PlayerTetris-WebGLBuild",
 	 "author": "Philipp Seiringer, Patrick Gabriel",
 	 "year": "2019_WS",
@@ -42,13 +62,16 @@
 	 "author": "Sven Vucak",
 	 "year": "2019_WS",
 	 "status": 0
-      },
-	{
+    },
+		{
    	 "title": "RglLike",
 	 "folder": "RglLike_WebGL",
 	 "author": "David Engelberger",
 	 "year": "2019_WS",
 	 "status": 0
     }
+   
      	 
 ]
+
+

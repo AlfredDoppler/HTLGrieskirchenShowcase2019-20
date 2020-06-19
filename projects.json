@@ -168,5 +168,19 @@
        "author": "Raphael Eckmayr",
        "year": "2019_WS",
        "status":  -1
+     },
+     {
+      "title": "Blöder roter Kackstift der durchs Weltall springt",
+      "folder": "BlöderRoterKackstiftDerDurchsWeltallSpringt",
+      "author": "Raphael Eckmayr",
+      "year": "2019_SS",
+      "status":  1
+     },
+     {
+      "title": "3dTowerDefenseGame",
+      "folder": "3dTowerDefenseGame",
+      "author": "Manuel Seifriedsberger",
+      "year": "2019_SS",
+      "status":  1
      }
 ]

@@ -189,5 +189,12 @@
          "author" : "Paul Wiesinger",
          "year" : "2020_WS",
          "status" : 1
+     },
+     {
+      "title": "FPS",
+      "folder": "FPS",
+      "author": "Severin Hamader",
+      "year": "2019_SS",
+      "status":  1
      }
 ]

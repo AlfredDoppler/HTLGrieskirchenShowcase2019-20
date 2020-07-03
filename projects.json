@@ -182,5 +182,12 @@
       "author": "Manuel Seifriedsberger",
       "year": "2019_SS",
       "status":  1
+     },
+     {
+         "title" : "Crazy Chicken Game",
+         "folder" : "Crazy Chicken",
+         "author" : "Paul Wiesinger",
+         "year" : "2020_WS",
+         "status" : 1
      }
 ]

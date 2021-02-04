@@ -187,7 +187,14 @@
          "title" : "Crazy Chicken Game",
          "folder" : "Crazy Chicken",
          "author" : "Paul Wiesinger",
-         "year" : "2020_WS",
+         "year" : "2019_WS",
          "status" : 1
+     },
+     {
+      "title": "FPS",
+      "folder": "FPS",
+      "author": "Severin Hamader",
+      "year": "2019_SS",
+      "status":  1
      }
 ]

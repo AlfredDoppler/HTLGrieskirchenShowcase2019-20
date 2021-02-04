@@ -196,5 +196,12 @@
       "author": "Severin Hamader",
       "year": "2019_SS",
       "status":  1
+     },
+     {
+       "title" : "Huter",
+       "folder" : "Huter",
+       "author" : "Max Grubauer & Paul Wiesinger",
+       "year" : "2021_WS",
+       "status" : 1
      }
 ]

@@ -13,7 +13,7 @@
     "year": "2019_WS",
     "info": "TowerDefense Game with unlimited lives",
     "status": 0
-  },  
+  },
   {
     "title": "AbaloneGameV2",
     "folder": "AbaloneV2_WebGL",
@@ -22,23 +22,9 @@
     "status": 0
   },
   {
-    "title": "SpaceJumper",
-    "folder": "2PlayerTetris-WebGLBuild",
-    "author": "David Gangl",
-    "year": "2019_WS",
-    "status": 1
-  },
-  {
     "title": "Crusade",
     "folder": "Crusade",
     "author": "Fabian",
-    "year": "2019_WS",
-    "status": 0
-  },
-  {
-    "title": "Tetris2Player",
-    "folder": "2PlayerTetris-WebGLBuild",
-    "author": "Philipp Seiringer, Patrick Gabriel",
     "year": "2019_WS",
     "status": 0
   },
@@ -71,72 +57,80 @@
     "status": 0
   },
   {
-    "title": "Terraria Clone",
-    "folder": "Gumperriar",
-    "author": "Lukas Gumpinger",
+    "title": "Endless Jump",
+    "folder": "WebGL_MeinSPiel",
+    "author": "Matthias Wetzlmayer",
+    "year": "2019_WS",
+    "status": 1
+  },
+  {
+    "title": "ShootingGame",
+    "folder": "ShootingGameForGit",
+    "author": "Elias Baran Bauer",
     "year": "2019_WS",
     "status": 0
   },
   {
-	 "title": "Endless Jump",
-	 "folder": "WebGL_MeinSPiel",
-	 "author": "Matthias Wetzlmayer",
-	 "year": "2019_WS",
-	 "status": 1
-    },
-	{
-	 "title": "ShootingGame",
-	 "folder": "ShootingGameForGit",
-	 "author": "Elias Baran Bauer",
-	 "year": "2019_WS",
-	 "status": 0
-	},
-    {
-      "title": "ZombieShooterDingsbums",
-      "folder": "ZombieShooterDingsbums",
-      "author": "Nico Oliver",
-      "year": "2019_WS",
-      "status":  1
-    },
-    {
-       "title": "SuperMario",
-       "folder": "SuperMario",
-       "author": "Benedikt Ortner",
-       "year": "2019_WS",
-       "status":  1
-     },{
-       "title": "GettingOverIt",
-       "folder": "GettingOverIt_Clone",
-       "author": "Raphael Eckmayr",
-       "year": "2019_WS",
-       "status":  -1
-     },
-     {
-      "title": "Blöder roter Kackstift der durchs Weltall springt",
-      "folder": "BlöderRoterKackstiftDerDurchsWeltallSpringt",
-      "author": "Raphael Eckmayr",
-      "year": "2019_SS",
-      "status":  1
-     },
-     {
-      "title": "3dTowerDefenseGame",
-      "folder": "3dTowerDefenseGame",
-      "author": "Manuel Seifriedsberger",
-      "year": "2019_SS",
-      "status":  1
-     },
-     {
-         "title" : "Crazy Chicken Game",
-         "folder" : "Crazy Chicken",
-         "author" : "Paul Wiesinger",
-         "year" : "2019_WS",
-         "status" : 1
-     },
-     {
-      "title": "FPS",
-      "folder": "FPS",
-      "author": "Severin Hamader",
-      "year": "2019_SS",
-      "status":  1
-     }
+    "title": "SuperMario",
+    "folder": "SuperMario",
+    "author": "Benedikt Ortner",
+    "year": "2019_WS",
+    "status": 1
+  },
+  {
+    "title": "GettingOverIt",
+    "folder": "GettingOverIt_Clone",
+    "author": "Raphael Eckmayr",
+    "year": "2019_WS",
+    "status": -1
+  },
+  {
+    "title": "Blöder roter Kackstift der durchs Weltall springt",
+    "folder": "BlöderRoterKackstiftDerDurchsWeltallSpringt",
+    "author": "Raphael Eckmayr",
+    "year": "2019_SS",
+    "status": 1
+  },
+  {
+    "title": "3dTowerDefenseGame",
+    "folder": "3dTowerDefenseGame",
+    "author": "Manuel Seifriedsberger",
+    "year": "2019_SS",
+    "status": 1
+  },
+  {
+    "title": "Crazy Chicken Game",
+    "folder": "Crazy Chicken",
+    "author": "Paul Wiesinger",
+    "year": "2019_WS",
+    "status": 1
+  },
+  {
+    "title": "FPS",
+    "folder": "FPS",
+    "author": "Severin Hamader",
+    "year": "2019_SS",
+    "status": 1
+  },
+  {
+    "title": "SpaceJumper",
+    "folder": "SpaceJumper",
+    "author": "David Gangl",
+    "year": "2019_WS",
+    "status": 1
+  },
+  {
+    "title": "PacMan Clone",
+    "folder": "Pac-Man",
+    "author": "Lukas Jodlbauer",
+    "year": "2019_WS",
+    "status": 1
+  },
+  {
+    "title": "RogueLike",
+    "folder": "RglLike_WebGL",
+    "author": "4AreLife",
+    "year": "2019_WS",
+    "status": 1
+  }
 ]
